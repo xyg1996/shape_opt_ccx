@@ -1,8 +1,8 @@
 <!DOCTYPE document>
 <document>
   <section name="ASTERSTUDY">
-    <parameter name="name" value="Tanksimulator" />
-    <parameter name="icon" value="asterstudy.png" />
+    <parameter name="name" value="ccxShapeOpt" />
+    <parameter name="icon" value="ccxShapeOpt.png" />
     <parameter name="version" value="V1.0" />
     <parameter name="library" value="SalomePyQtGUILight" />
     <!-- <parameter name="documentation" value="asterstudy_help"/>
