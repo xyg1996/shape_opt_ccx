@@ -1,0 +1,1 @@
+This is a salome Light-module used to run shape optimization implemeted with [ccx-cae](https://github.com/calculix/cae) and [ccx-shape](https://github.com/fandaL/ccx-shape)
